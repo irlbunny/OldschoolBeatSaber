@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "OldschoolBeatSaber",
+  "name": "Oldschool Beat Saber",
+  "author": "Kaitlyn",
+  "version": "1.0.0",
+  "description": "Go back in time.",
+  "gameVersion": "1.26.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.2"
+  }
+}
