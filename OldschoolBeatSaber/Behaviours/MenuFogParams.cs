@@ -41,8 +41,9 @@ namespace OldschoolBeatSaber.Behaviours
                 _customBloomFogEnvironmentParams.offset = _offset;
                 _customBloomFogEnvironmentParams.heightFogStartY = _heightFogStartY;
                 _customBloomFogEnvironmentParams.heightFogHeight = _heightFogHeight;
-                _customBloomFogEnvironmentParams.brightness = _brightness;
-                _customBloomFogEnvironmentParams.autoExposureIntensity = _autoExposureIntensity;
+                //_customBloomFogEnvironmentParams.brightness = _brightness;
+                //_customBloomFogEnvironmentParams.autoExposureIntensity = _autoExposureIntensity;
+                _customBloomFogEnvironmentParams.autoExposureLimit = _autoExposureIntensity * 1000f;
             }
 
             _bloomFogEnvironment.enabled = false;

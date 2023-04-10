@@ -3,9 +3,9 @@
   "id": "OldschoolBeatSaber",
   "name": "Oldschool Beat Saber",
   "author": "Kaitlyn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Go back in time.",
-  "gameVersion": "1.26.0",
+  "gameVersion": "1.29.0",
   "dependsOn": {
     "BSIPA": "^4.2.2"
   }
